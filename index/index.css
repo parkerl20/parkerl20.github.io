@@ -1,7 +1,7 @@
 body {
     font-family: Arial;
     margin: 0;
-    background-color: #e8d7d5
+    background-color: #171715
 }
 
 .header {
@@ -10,6 +10,8 @@ body {
     background: #1abc9c;
     color: white;
     font-size: 30px;
+    /* position: fixed;
+    z-index: 999; */
 }
 
 .content {
@@ -28,6 +30,7 @@ h1 {
     position: sticky;
     position: -webkit-sticky;
     top: 0;
+    z-index: 999;
 }
   
 /* Style the navigation bar links */
@@ -43,8 +46,8 @@ h1 {
   
 /* Change color on hover */
 .navbar a:hover {
-    background-color: #ddd;
-    color: black;
+    background-color: #d2ed3b;
+    color: #ddd;
 }
 
 /* Footer */
