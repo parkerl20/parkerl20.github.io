@@ -27,7 +27,7 @@ h1 {
 /* Style the navigation bar links */
 .navbar a {
     float: none;
-    display: block;
+    display: inline-block;
     color: white;
     text-align: center;
     padding: 14px 20px;
