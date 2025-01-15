@@ -39,3 +39,10 @@ h1 {
     background-color: #ddd;
     color: black;
 }
+
+/* Footer */
+.footer {
+    padding: 20px;
+    text-align: center;
+    background: #ddd;
+}
