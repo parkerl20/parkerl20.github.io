@@ -26,7 +26,7 @@ h1 {
   
 /* Style the navigation bar links */
 .navbar a {
-    float: left;
+    float: none;
     display: block;
     color: white;
     text-align: center;
