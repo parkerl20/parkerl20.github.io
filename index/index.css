@@ -21,7 +21,7 @@ body {
     padding-bottom: 20px;
     padding-left: 300px;
     padding-right: 300px;
-    color: #5e5e5a;
+    color: #8f8f88;
 }
 
 h1 {
@@ -38,6 +38,7 @@ h1 {
     padding-right: 300px;
     top: 0;
     z-index: 999;
+    display: inline-table;
 }
   
 /* Style the navigation bar links */
@@ -59,9 +60,10 @@ h1 {
 
 /* Footer */
 .footer {
-    padding: 20px;
+    padding: 5px;
     text-align: center;
-    background: #ddd;
+    background: black;
+    color: #ddd;
     padding-left: 300px;
     padding-right: 300px;
 }
