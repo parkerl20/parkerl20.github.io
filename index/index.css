@@ -54,15 +54,16 @@ h1 {
 /* Change color on hover */
 .navbar a:hover {
     background-color: #d2ed3b;
-    color: #ddd;
+    color: black;
 }
 
 /* Footer */
 .footer {
     padding: 5px;
-    text-align: center;
+    text-align: left;
     background: black;
     color: #ddd;
     padding-left: 300px;
     padding-right: 300px;
+    font-size: 12pt;
 }
