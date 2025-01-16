@@ -16,11 +16,21 @@ body {
     z-index: 999; */
 }
 
-.content {
+.content-left {
     padding-top: 20px;
     padding-bottom: 20px;
     padding-left: 300px;
     padding-right: 300px;
+    text-align: left;
+    color: #8f8f88;
+}
+
+.content-right {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 300px;
+    padding-right: 300px;
+    text-align: right;
     color: #8f8f88;
 }
 
